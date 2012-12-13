@@ -4,9 +4,11 @@ Action-Sheet
 How do they do the share links in mobile Safari? You can do it with this!
 
 Action-Sheet supports both portrait:
+
 ![ScreenShot](https://raw.github.com/loofy2/Action-Sheet/master/portrait.png)
 
 and landscape mode
+
 ![ScreenShot](https://raw.github.com/loofy2/Action-Sheet/master/landscape.png)
 
 Usage is simple.
