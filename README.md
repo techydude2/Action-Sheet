@@ -1,7 +1,7 @@
 Action-Sheet
 ============
 
-How do they do the share links in mobile Safari? You can do it with this!
+Have you ever wanted to make an actionsheet like the share menu in mobile safari? You can do it with Action-Sheet!
 
 Action-Sheet supports both portrait:
 
@@ -20,7 +20,7 @@ ActionSheet *sheet = [[[ActionSheet alloc] init] autorelease];
 [sheet showContent: self.actionsView inView: self.view];
 ```
 If you want to be efficient, it's perfectly fine to re-use an ActionSheet instance.
-Also, note that the size of the UIView being presented in ActionSheet can be any size as long as it fits on the screen.
+The size of the UIView being presented in ActionSheet can be any size as long as it fits on the screen.
 
 
 Limitations:
